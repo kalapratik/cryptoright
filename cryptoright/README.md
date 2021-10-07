@@ -1,0 +1,1 @@
+# CryptoRight Blockchain Copyright System
